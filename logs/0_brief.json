@@ -1,0 +1,66 @@
+{
+  "nombre": "Sonrident — Ortodoncia y Estética Dental",
+  "sector": "dental",
+  "ciudad": "León",
+  "estado": "Guanajuato",
+  "servicios": [
+    "Ortodoncia metálica tradicional desde $12,500 (18 meses sin intereses)",
+    "Ortodoncia estética con brackets cerámicos desde $16,000",
+    "Invisalign alineadores transparentes desde $28,000",
+    "Blanqueamiento dental profesional en consultorio $2,800 por sesión",
+    "Blanqueamiento para llevar a casa kit + cubetas $1,200",
+    "Limpieza profunda con ultrasonido $550",
+    "Consulta de diagnóstico + radiografía panorámica $350",
+    "Retenedores post-ortodoncia fijo $1,800 / removible $1,200"
+  ],
+  "diferenciadores": [
+    "Escáner intraoral 3D para diagnósticos precisos sin impresiones incómodas",
+    "Pago en hasta 18 meses sin intereses con cualquier tarjeta",
+    "App propia de seguimiento para ver el progreso mes a mes",
+    "El Dr. Ibáñez atiende personalmente cada consulta, sin dentistas de guardia rotativos",
+    "Garantía escrita de 2 años en todos los trabajos de ortodoncia",
+    "Estacionamiento propio con 8 cajones en Jardines del Moral"
+  ],
+  "anos_experiencia": 23,
+  "numeros_clave": [
+    {
+      "valor": "4,200+",
+      "label": "pacientes atendidos"
+    },
+    {
+      "valor": "23",
+      "label": "años de experiencia"
+    },
+    {
+      "valor": "98%",
+      "label": "tasa de finalización de tratamientos"
+    },
+    {
+      "valor": "4.9★",
+      "label": "estrellas en Google (312 reseñas)"
+    }
+  ],
+  "oferta_especial": "Consulta de diagnóstico completa GRATIS para nuevos pacientes que agenden por WhatsApp antes de que termine el mes. Incluye exploración oral, radiografía panorámica digital y plan de tratamiento (valor $350).",
+  "testimonios": [],
+  "telefono": "4773128890",
+  "whatsapp": "524773128890",
+  "email": null,
+  "horario": "Lunes a viernes 9:00–20:00 / Sábado 9:00–14:00",
+  "estilo_visual": "moderno",
+  "colores": [
+    "#0B2A4A",
+    "#00B4D8",
+    "#FFFFFF"
+  ],
+  "objetivo_pagina": "whatsapp",
+  "slogan": null,
+  "source": "texto",
+  "instagram_handle": null,
+  "instagram_stats": {
+    "seguidores": null,
+    "siguiendo": null,
+    "publicaciones": null
+  },
+  "foto_perfil": null,
+  "fotos_disponibles": []
+}
